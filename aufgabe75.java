@@ -50,7 +50,7 @@ for (int l = 0; l < 3; l++)
  }
  
 }
-
+//Funktionen
   double a = 50;
   void dreieck()
 {
