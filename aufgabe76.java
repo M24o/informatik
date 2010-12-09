@@ -13,7 +13,7 @@ class MyTurtle
   t.setPos(-150,140);
   kreuz();
   t.right(90);
-  //gro√?es Kreuz
+  //grosses Kreuz
   for (int x = 0; x < 3; x++)
   {
   t.penUp();
